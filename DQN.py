@@ -2,7 +2,7 @@
 """
 Created on Wed May 16 10:48:58 2018
 
-@author: Lenovo
+@author: zou
 """
 
 import tensorflow as tf

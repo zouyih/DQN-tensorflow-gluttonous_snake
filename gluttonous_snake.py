@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed May 16 15:22:20 2018
+
+@author: zou
+"""
+
 import pygame, time
 from pygame.locals import QUIT
 from pygame.locals import KEYDOWN, K_RIGHT, K_LEFT, K_UP, K_DOWN, K_ESCAPE

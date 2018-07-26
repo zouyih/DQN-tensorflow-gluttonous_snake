@@ -2,7 +2,7 @@
 """
 Created on Wed May 16 15:22:20 2018
 
-@author: Lenovo
+@author: zou
 """
 
 class Config:
